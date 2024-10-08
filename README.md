@@ -2,8 +2,6 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-![Site here ]([/frontend/public/screenshot-for-readme.png])
-
 About This App:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
