@@ -2,22 +2,21 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-![Site here ]([/frontend/public/screenshot-for-readme.png](https://movies-app-by-d7.onrender.com/))
+![Site here ]([/frontend/public/screenshot-for-readme.png])
 
 About This App:
 
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
--   🔐 Authentication with JWT
--   📱 Responsive UI
--   🎬 Fetch Movies and Tv Show
--   🔎 Search for Actors and Movies
--   🎥 Watch Trailers
--   🔥 Fetch Search History
--   🐱‍👤 Get Similar Movies/Tv Shows
--   💙 Awesome Landing Page
--   🌐 Deployment
--   🚀 And Many More Cool Features
-
+- ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
+- 🔐 Authentication with JWT
+- 📱 Responsive UI
+- 🎬 Fetch Movies and Tv Show
+- 🔎 Search for Actors and Movies
+- 🎥 Watch Trailers
+- 🔥 Fetch Search History
+- 🐱‍👤 Get Similar Movies/Tv Shows
+- 💙 Awesome Landing Page
+- 🌐 Deployment
+- 🚀 And Many More Cool Features
 
 ### Setup .env file
 
@@ -40,7 +39,5 @@ npm run build
 ```shell
 npm run start
 ```
-
-
 
 ### I'll see you in the next one! 🚀
